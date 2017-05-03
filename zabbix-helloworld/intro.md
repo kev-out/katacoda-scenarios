@@ -7,4 +7,4 @@ There are four ways of getting Zabbix:
 - Install it from the containers
 - Download the virtual appliance
 
-In this tutorial we will be installing Zabbix from scratch using the source archive
+In this tutorial we will be installing Zabbix from scratch using the **source archive**
